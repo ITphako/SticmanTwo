@@ -1,0 +1,76 @@
+
+StickmanTest.png
+size: 1210,504
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ArmL1
+  rotate: false
+  xy: 2, 2
+  size: 300, 100
+  orig: 302, 102
+  offset: 1, 1
+  index: -1
+ArmL2
+  rotate: false
+  xy: 2, 2
+  size: 300, 100
+  orig: 302, 102
+  offset: 1, 1
+  index: -1
+ArmR1
+  rotate: false
+  xy: 2, 2
+  size: 300, 100
+  orig: 302, 102
+  offset: 1, 1
+  index: -1
+ArmR2
+  rotate: false
+  xy: 2, 2
+  size: 300, 100
+  orig: 302, 102
+  offset: 1, 1
+  index: -1
+Body
+  rotate: false
+  xy: 304, 2
+  size: 100, 500
+  orig: 102, 502
+  offset: 1, 1
+  index: -1
+Head
+  rotate: false
+  xy: 606, 2
+  size: 286, 286
+  orig: 288, 288
+  offset: 1, 1
+  index: -1
+LegL1
+  rotate: false
+  xy: 908, 2
+  size: 100, 300
+  orig: 102, 302
+  offset: 1, 1
+  index: -1
+LegL2
+  rotate: false
+  xy: 908, 2
+  size: 100, 300
+  orig: 102, 302
+  offset: 1, 1
+  index: -1
+LegR1
+  rotate: false
+  xy: 908, 2
+  size: 100, 300
+  orig: 102, 302
+  offset: 1, 1
+  index: -1
+LegR2
+  rotate: false
+  xy: 908, 2
+  size: 100, 300
+  orig: 102, 302
+  offset: 1, 1
+  index: -1
